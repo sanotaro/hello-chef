@@ -1,4 +1,4 @@
 # hello-chef
 
-TODO: Enter the cookbook description here.
+テストキッチンの練習用
 
